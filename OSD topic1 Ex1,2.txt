@@ -1,0 +1,17 @@
+Exercise 1:   Improvements to Application Software Functions Can  you  think  of  any  features  
+and/or  functions  (e.g.  help  features)  that  you  have  used  in  an application software package 
+that you think could be improved?   In what ways could they be improved? 
+
+In Exel-  ''Table of Contents" to easily navigate and search for topics.
+In Fb's Messenger -  "Aa" to type message.
+
+
+Exercise 2:   Improvements to Business Processes Which business processes do you think could be 
+made easier and more efficient by end-user development? 
+
+
+
+Exercise 3:   Software Display Design Elements With reference to two application software packages
+ that you use regularly, describe which of the software display design elements (see Topic 2 Slide 22) 
+are included in each package, how effective you think they are, and how you think they could be improved
+.You may also make reference to the effectiveness or ineffectiveness of text, colour, image and sound. 

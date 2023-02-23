@@ -1,0 +1,7 @@
+Exercise 1:  Advanced Features and Functions and Business Processes   
+List at least two business tasks that could be undertaken by using each of the following:
+   PivotTables and charts
+   Templates 
+   Conditional formatting
+   Validation
+   Logical functions 
